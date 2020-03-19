@@ -32,7 +32,7 @@ dependencies {
 
 ```
 
-###if belowed code are not displaying in xml then copy from here
+### if belowed code are not displaying in xml then copy from here
 ```
 	app:outlineSize="5dp"
 	app:outlineColor="@color/colorPrimary"
