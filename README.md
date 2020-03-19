@@ -31,7 +31,12 @@ dependencies {
         android:layout_height="match_parent"></com.swihoc.lib_textstroke.TextStroke>
 
 ```
-if ### app:outlineSize="5dp" and app:outlineColor="@color/colorPrimary" are not displaying in xml then copy and paste from here
+if 
+
+### app:outlineSize="5dp"
+### app:outlineColor="@color/colorPrimary"
+
+are not displaying in xml then copy and paste from here
 
 # Screenshots:-
 ### Output
