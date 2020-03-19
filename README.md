@@ -32,6 +32,6 @@ then add this in xml:-
 
 ```
 
-#Screenshots:-
-##Output
+# Screenshots:-
+## Output
 ![Text with stroke image](https://github.com/kashyap0001/Text-Stroke/blob/master/Screenshot_20200319-104539.jpg)
