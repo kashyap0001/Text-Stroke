@@ -21,7 +21,7 @@ dependencies {
 }
 ```
 
-then add this in xml:-
+## How to use :-
 ```
 <com.swihoc.lib_textstroke.TextStroke
         app:outlineSize="5dp"
@@ -33,5 +33,5 @@ then add this in xml:-
 ```
 
 # Screenshots:-
-## Output
+### Output
 ![Text with stroke image](https://github.com/kashyap0001/Text-Stroke/blob/master/Screenshot_20200319-104539.jpg)
