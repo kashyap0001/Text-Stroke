@@ -32,9 +32,8 @@ dependencies {
 
 ```
 if 
-
-### app:outlineSize="5dp"
-### app:outlineColor="@color/colorPrimary"
+	### app:outlineSize="5dp"
+	### app:outlineColor="@color/colorPrimary"
 
 are not displaying in xml then copy and paste from here
 
